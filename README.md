@@ -1,4 +1,4 @@
-# Troon Launcher
+# OnWorldFile Launcher
 
 Troon Launcher es un launcher de escritorio desarrollado con Electron, diseñado para ofrecer acceso a juegos completamente gratis y legales desde una interfaz moderna, rápida y sencilla.
 
@@ -60,7 +60,7 @@ Todos los nombres, marcas y juegos pertenecen a sus respectivos propietarios.
 ## Autor
 
 Rodrigo  
-Creador y desarrollador de Troon Launcher
+Creador y desarrollador de OnWorldFile Launcher
 
 ---
 
