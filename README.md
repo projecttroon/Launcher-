@@ -29,7 +29,6 @@ El launcher:
 - No contiene malware
 - No recolecta información personal
 - No ejecuta procesos ocultos
-- Es transparente y seguro
 
 ---
 
